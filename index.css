@@ -1,0 +1,10 @@
+.masonry-grid {
+  display: flex;
+  margin-left: -16px;
+  width: auto;
+}
+.masonry-item {
+  width: 100%;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
